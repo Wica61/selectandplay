@@ -1,0 +1,110 @@
+/*Header*/
+header {
+    background-color: #831313;
+    text-align: center;
+    padding: 25px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #DA6BA8;
+    vertical-align: middle;
+  }
+
+li {
+    float: left;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 18px 22px;
+    text-decoration: none;
+
+}
+li a:hover {
+    background-color: #d1619f;
+}
+
+li b {
+    display: block;
+    color: white;
+    padding: 18px 22px;
+    text-decoration: none;
+
+}
+li b:hover {
+    background-color: #d1619f;
+}
+
+.logo{
+    width: 95px;
+    height: 34px;
+}
+.loupe{
+    width: 23px;
+    aspect-ratio: 1;
+    float: right;
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+.search{
+    float: right;
+    margin-top: 22px;
+    margin-right: 10px;
+    width: 200px;
+    height: 23px;
+    border-radius: 4px;
+}
+
+.user{
+    width: 35px;
+    aspect-ratio: 1;
+    float: right;
+    margin-top: 20px;
+    margin-right: 9px;
+}
+
+
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+/*login*/
+.entree {
+    border-color: #DA6BA8;
+    border-radius: 5px;
+    width: 400px;
+    height: 50px;
+    font-size: large;
+}
+
+.formlog{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 150px;
+    font-size: xx-large;
+}
+
+.loginbutton{
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: large;
+    border-color: black;
+    background-color: white;
+
+}

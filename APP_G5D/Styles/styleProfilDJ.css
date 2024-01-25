@@ -1,0 +1,62 @@
+
+
+    
+
+.header {
+    float: right;
+    padding: 20px;
+    
+  }
+  .header a, .row a{
+    text-decoration: none;
+  }
+  
+  button {
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    display: block ;
+    font-size: 12px;
+    margin: 10px 100px;
+    cursor: pointer;
+  }
+  .un {
+    background-color: black; 
+    border: 1px solid #DA6BA8;
+    padding: 10px 40px;
+  }
+  
+  .un:hover{
+    background-color: #1F0891;
+    color: white;
+    border: 1px solid white;
+  }
+  .column {
+    float: left;
+    text-align: left;
+    font-size: p5x;
+    width: 40%;
+  }
+  .row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  @media screen and (max-width:600px) {
+    body {
+      width: 100%;
+    }
+  }
+  .trois{ 
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 12px;
+    margin: 0px ;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  

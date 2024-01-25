@@ -1,0 +1,41 @@
+
+
+h1{
+  padding:20px;
+  text-align:center;
+}
+a{
+  color:white;
+  text-decoration:none;
+}
+a:hover,.submit:hover{
+  text-decoration:underline;
+    
+}
+td {
+  padding:10px;
+  border-color: #DA6BA8;
+} 
+table{
+  border-collapse: collapse;
+}
+form{
+  text-align:center;
+}
+input.submit{
+  background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    margin: 0px ;
+    padding: 10px;
+    cursor: pointer;				
+}
+@media screen and (max-width:600px) {
+   body {
+      width: 100%;
+    }
+}

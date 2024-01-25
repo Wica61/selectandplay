@@ -1,0 +1,28 @@
+body {
+    margin-top: 20%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+}
+
+th, td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #DA6BA8; 
+}
+
+th {
+    background-color: #1F0891 ;
+    color: #ffffff; 
+}
+
+
+tr:hover {
+    background-color: #DA6BA8;
+}
+
+tr:first-child:hover {
+    background-color: #007bff; 
+}

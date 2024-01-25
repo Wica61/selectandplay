@@ -1,0 +1,20 @@
+
+body{
+    background: linear-gradient(to bottom, #000000 40%, #1F0891);
+    background: -webkit-linear-gradient(top, #000000 40%, #1F0891);
+    background: -moz-linear-gradient(top, #000000 40%, #1F0891);
+    background: -o-linear-gradient(top, #000000 40%, #1F0891);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff; 
+}
+
+
+a {
+    color: pink;
+    margin-left: 25px;
+}
+
+a:hover {
+    color: white; 
+}

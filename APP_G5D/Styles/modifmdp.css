@@ -1,0 +1,41 @@
+body {
+    height: 800px;
+    color:white;
+    background-color: #351FA0; 
+    background-image: linear-gradient(black, #351FA0);
+}
+h2{
+  padding:20px;
+  background-color : #DA6BA8;
+  text-align:center;
+}
+a{
+  color:white;
+  text-decoration:none;
+}
+a:hover,.submit:hover{
+  text-decoration:underline;
+}
+p{
+    text-align:center;
+}
+form{
+  text-align:center;
+}
+.submit{
+  background-color: transparent;
+    color: white;
+    border: 2px solid #DA6BA8;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    margin: 0px ;
+    padding: 10px;
+    cursor: pointer;				
+}
+@media screen and (max-width:600px) {
+   body {
+      width: 100%;
+    }
+}

@@ -1,0 +1,176 @@
+
+.inscription-btn {
+            padding: 10px 20px;
+            background-color: #fff;
+            color: black;
+            border : none;
+            border-radius: 20px;
+            font-size: 20px;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+            margin-bottom: 250px;
+        }
+
+
+.inscription-btn:hover {
+    background-color: #1F0891;
+    color: #fff;
+}
+
+body {
+    background-color: #000;
+    color: #fff; 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+}
+
+body{
+    background: linear-gradient(to bottom, #000000 40%, #1F0891);
+    background: -webkit-linear-gradient(top, #000000 40%, #1F0891);
+    background: -moz-linear-gradient(top, #000000 40%, #1F0891);
+    background: -o-linear-gradient(top, #000000 40%, #1F0891);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.Bienvenue {
+    color: white;
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 48px;
+    word-wrap: break-word;
+    margin-bottom: 20px;
+    margin-left: -30px;
+
+} 
+    
+.GetReady {
+    color: white;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word ;
+    margin-bottom: 20px;
+    margin-left: 120px;
+}
+
+.newsletter {
+    color: rgba(0, 0, 0, 0.50);
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 20px;
+    word-wrap: break-word ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+}
+
+.container {
+    display: flex; 
+    align-items: center; 
+    padding-top: 20px;
+}
+
+.image {
+    margin-left: 60px;
+    margin-top: -20px ;
+}
+
+.text {
+    margin-left: 120px;
+}
+
+.nosclubs {
+    text-align: center;
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 48px;
+    word-wrap: break-word;
+    margin-top: 120px;
+}
+
+.image2 {
+    padding-top: 20px;
+    width: 27%;
+
+}
+
+
+.service {
+    color: white;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.voir-btn {
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    margin-top: 50px;
+}
+
+.voir-btn:hover {
+    background-color: #1F0891;
+}
+
+
+
+
+
+
+
+.p2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.p21 {
+    text-align: center;
+    margin : 0 20px;
+}
+
+
+.formcontact {
+    width: 100px; 
+    margin: 0 auto; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh; 
+    margin-top: -30px;
+    font-size: large;
+}
+
+.formcontact form div {
+    width: 100%;
+    margin-bottom: 10px; 
+}
+
+.input1{
+    width: 300px; 
+    height: 30px; 
+
+}
+
+.input2{
+    width: 300px; 
+    height: 100px; 
+
+}

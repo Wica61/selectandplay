@@ -1,0 +1,21 @@
+.Event {
+    margin-top: 120px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: 700; 	
+    line-height: 48px;
+    word-wrap: break-word;
+    margin-top: 120px;
+
+}
+	
+.ListeEvent {
+	
+	font-size: 20px;
+	font-family: Roboto;
+	font-weight: 700;   
+	line-height: 48px;
+	word-wrap: break-word;
+	margin-left : 5%;
+}

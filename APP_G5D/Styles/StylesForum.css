@@ -1,0 +1,41 @@
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.forum {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.message {
+    background-color: #333;
+    border: 1px solid #666;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 70%;
+}
+
+.ajouter-message {
+    margin-top: 20px;
+    width: 70%;
+}
+
+.ajouter-message form {
+    display: flex;
+    flex-direction: column;
+}
+
+.ajouter-message input,
+.ajouter-message textarea,
+.ajouter-message button {
+    margin-bottom: 10px;
+}

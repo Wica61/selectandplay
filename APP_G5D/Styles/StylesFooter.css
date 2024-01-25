@@ -1,0 +1,29 @@
+
+ul {
+    text-align: center
+} 
+
+    
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.foot { 
+    bottom: 0;
+    width: 100%;
+    background-color: #DA6BA8;
+    text-align: center;
+    padding: 25px;
+}
+
+
+.foot {
+    min-height: calc(10% - 50px); 
+    
+}
+
+ul {
+    text-align: center
+}

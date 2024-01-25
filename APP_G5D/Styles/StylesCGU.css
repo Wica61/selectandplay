@@ -1,0 +1,32 @@
+body {
+    font-family: Roboto; 
+    line-height: 1.6; 
+    color: #333; 
+    padding: 0 20px;
+}
+
+h1 {
+    color: #0066cc; 
+    text-align: center; 
+}
+
+.article {
+    border: 1px solid #ddd; 
+    padding: 15px; 
+    margin-bottom: 20px; 
+
+}
+
+.article h2 {
+    color: #DA6BA8; 
+}
+
+.article p {
+    text-align: justify; 
+}
+
+footer {
+    margin-top: 30px; 
+    text-align: center; 
+    font-size: 0.8em; 
+}
